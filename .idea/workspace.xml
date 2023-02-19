@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3adba21-a39e-470b-a40e-5663ebc39980" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q01_WhileLoop_10KatinaKadar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q02_List_Ekle_Cikar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q03_DoWhile_TahminOyunu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q04_MultiArray_AyniIndexTop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q05_NestedForLoop_Carpim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice03/Q06_ForLoop_Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/C01_ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/C02_ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/C03_DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/C04_WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/HacjerLanguage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/HesapMakinesi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/HesapMakinesiVarargs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q01_Arrays_OrtalamadanBuyuk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q02_Arrays_OrtakElemanlar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q03_DoWhile_TopunSicramasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q04_Foreach_Sifreleme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q05_Varargs_KullaniciBilgileri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advanced_practice/practice04/Q06_MountainAray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09incrementdecrementternaryswitch/IncrementDecrement01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09incrementdecrementternaryswitch/NestedTernary01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09incrementdecrementternaryswitch/Switch01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day09incrementdecrementternaryswitch/Ternary01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10switchloops/Loops01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10switchloops/Loops02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10switchloops/Switch01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10switchloops/Switch02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10switchloops/Switch03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C01_SonsuzLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C02_CalismayanLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C03_ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C04_ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C05_ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C06_NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day11loops/C07_NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12loops/C01_ForLoopIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12loops/C02_ForLoopSayiKullanmadanJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12loops/C03_NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12loops/C04_WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14arraysForeachloops/Arrays01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14arraysForeachloops/Arrays02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14arraysForeachloops/Arrays03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14arraysForeachloops/Arrays04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day14arraysForeachloops/Arrays05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arrays/C01_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arrays/C02_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arrays/C03_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arrays/C04_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15arrays/C05_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/C01_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/C02_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/C03_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/C04_Multidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/AritmeticOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/ComparsionOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/LogicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/WrapperClass01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarray/wrapperclassoperator1/WrapperClass02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/C01_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/C02_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/C03_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/C04_MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Md06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16multidimensionalarrays/Star.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17arraylists/ArrayLists01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17arraylists/ArrayLists02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17arraylists/ArrayLists03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18ArrayList/Array03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18ArrayList/ArrayList02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18ArrayList/ArrayList_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18ArrayList/List03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C01_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C02_ListsJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C03_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C04_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C05_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day19listvarargs/C06_Varargs.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L6WFIBchCa4GWe026lMHcke70c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3adba21-a39e-470b-a40e-5663ebc39980" name="Changes" comment="" />
+      <created>1675191907635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675191907635</updated>
+    </task>
+    <servers />
+  </component>
+</project>
