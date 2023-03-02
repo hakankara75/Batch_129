@@ -1,25 +1,52 @@
 package main.batch_129.projects.hospital;
 
-public class PatienceAndDoctor {
-    private String title;
+import java.util.ArrayList;
+import java.util.List;
+
+public class PatientAndDoctor {
+
+    private static boolean patDoc;
+
+    private String titles;
     private String cases;
-    private boolean urgency;
-    
-    public void PatDoc(){
-       this.title=title;
-       this.cases=cases;
-       this.urgency=urgency;
+    private static boolean urgency;
+    static Hospital hospital = new Hospital();
+    static List<PatientAndDoctor> caseTitleUrgencyList = new ArrayList<>();
+    public PatientAndDoctor(String cases, String titles, boolean urgency) {
+        this.titles=titles;
+        this.cases=cases;
+        this.urgency=urgency;
     }
+
+    public PatientAndDoctor() {
+
+    }
+
+    public static void main(String[] args) {
+        PatDoc();
+
+    }
+    String a="Kardiolog";
+
+    public static void PatDoc() {
+
+        for (int i = 0; i < hospital.cases.length; i++) {
+            PatientAndDoctor patDoc = new PatientAndDoctor(hospital.cases[i],hospital.titles[i],urgency);
+            System.out.println(patDoc);
+        }
+
+    }
+
     public void PathDoc(){
         
     }
 
     public String getTitle() {
-        return title;
+        return titles;
     }
 
     public void setTitle(String title) {
-        this.title = title;
+        this.titles = title;
     }
 
     public String getCases() {
@@ -40,10 +67,13 @@ public class PatienceAndDoctor {
 
     @Override
     public String toString() {
-        return "PatienceAndDoctor{" +
-                "title='" + title + '\'' +
+        return "PatientAndDoctor{" +
+                "title='" + titles + '\'' +
                 ", cases='" + cases + '\'' +
                 ", urgency=" + urgency +
                 '}';
     }
+
+
+
 }

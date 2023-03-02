@@ -1,4 +1,4 @@
-package main.batch_129.advance_practice;
+package main.batch_129.day30Exceptionsinterface;
 
 
 public class CustomException01 {

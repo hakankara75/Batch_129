@@ -1,5 +1,4 @@
-package main.batch_129.projects;
-
+package main.batch_129.projects.hastane;
 public class Doktor extends VeriBankasi {
 
     private String isim;

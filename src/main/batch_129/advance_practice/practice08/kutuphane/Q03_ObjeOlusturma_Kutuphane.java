@@ -1,4 +1,4 @@
-package main.batch_129.advance_practice.practice08;
+package main.batch_129.advance_practice.practice08.kutuphane;
 
 public class Q03_ObjeOlusturma_Kutuphane {
     //Kütüphaneye eklemek istediğiniz kitapları, adı, yazar adı, sayfa sayısı, seri numarası ile yazdıran bir kod yazınız.

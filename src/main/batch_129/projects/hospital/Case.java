@@ -1,6 +1,6 @@
-package projects.projects.hospital;
+package main.batch_129.projects.hospital;
 
-public class ase {
+public class Case {
     private String actualCase;
     private boolean urgency;
 

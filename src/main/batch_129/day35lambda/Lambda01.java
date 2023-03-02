@@ -1,4 +1,4 @@
-package main.batch_129.day35;
+package main.batch_129.day35lambda;
 
 import java.util.ArrayList;
 import java.util.Comparator;

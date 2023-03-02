@@ -1,9 +1,5 @@
-package main.batch_129.projects;
-
+package main.batch_129.projects.hastane;
 public class Hastane extends VeriBankasi {
-
-
-
     private Doktor doktor;
     private Hasta hasta;
 
@@ -22,8 +18,6 @@ public class Hastane extends VeriBankasi {
     public void setHasta(Hasta hasta) {
         this.hasta = hasta;
     }
-
-
     public Hastane() {
     }
 

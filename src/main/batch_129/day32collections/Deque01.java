@@ -1,4 +1,4 @@
-package main.batch_129.day32;
+package main.batch_129.day32collections;
 
 import java.util.Deque;
 import java.util.LinkedList;

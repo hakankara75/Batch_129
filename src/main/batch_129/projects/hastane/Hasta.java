@@ -1,5 +1,4 @@
-package main.batch_129.projects;
-
+package main.batch_129.projects.hastane;
 public class Hasta {
     private String isim;
     private String soyIsim;
@@ -7,6 +6,13 @@ public class Hasta {
     private Durum hastaDurumu;
 
     public Hasta() {
+    }
+
+    public Hasta(String isim, String soyIsim, int hastaID, Durum hastaDurumu) {
+        this.isim = isim;
+        this.soyIsim = soyIsim;
+        this.hastaID = hastaID;
+        this.hastaDurumu = hastaDurumu;
     }
 
     public String getIsim() {

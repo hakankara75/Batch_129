@@ -1,13 +1,21 @@
 package main.batch_129.projects.yiyecekotomati;
 
-public class Test01  implements L {
-    public static void main(String[] args) {
-        Cat cat = new Cat();
-        System.out.println(L.x);
-        cat.eat();
-    }
-    @Override
-    public void eat() {
-        System.out.println("Cats like cheese");
-    }
+import java.util.TreeSet;
+
+public class M {
+
+
+                public static void main(String[] args) {
+                    TreeSet<String> tSet = new TreeSet<>();
+                    tSet.add("C");
+                    tSet.add("B");
+                    tSet.add("C");
+                    tSet.add("A");
+                    for (String w : tSet){
+                        System.out.print(w + " ");
+                    }
+
+            }
 }
+
+

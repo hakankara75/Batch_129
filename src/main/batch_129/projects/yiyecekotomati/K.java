@@ -1,8 +1,7 @@
 package main.batch_129.projects.yiyecekotomati;
 
-public interface IO2 {
-    default void add() {
-        System.out.println("Makes addition");
-    }
+public interface K {
+    String a = "Awesome";
+    String mA();
 }
 
