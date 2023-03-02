@@ -1,4 +1,4 @@
-package main.batch_129.advance_practice.day05typecastingstringmanipulations;
+package main.batch_129.day05typecastingstringmanipulations;
 
 public class StringManipulations01 {
     //String bir non-primitive data type'dir ve ayni zamanda bir class'dir.
