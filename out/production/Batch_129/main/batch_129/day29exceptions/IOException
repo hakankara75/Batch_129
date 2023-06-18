@@ -1,0 +1,4 @@
+package day29exceptions;
+
+public class IOException extends Exception {
+}

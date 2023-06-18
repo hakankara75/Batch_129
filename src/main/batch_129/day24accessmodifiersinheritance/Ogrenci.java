@@ -22,7 +22,7 @@ Kac tane access modifier var ?
 i)publicler icin hicbir sinirlama yoktur projenin her yerinden ulasilabilir
 ii)"protected" ayni packagein icinden ya da farkli package'larda o package'deki cocuklar ulasabilir.
 iii)"default" sadece ayni package'den ulasilabilir. Bu yuzden defaultlarin diger adi" package private"'dir
-iv) private sadece class iinden ulsaiılabilir. class dışına çıkıldığında ulaşılamaz
+iv) private sadece class icinden ulsilabilir. class dışına çıkıldığında ulaşılamaz
 v) "protected" ile default"un farkı nedir?
 Package disina ciktigimizda childlardan "protected"lara ulasabiliriz. "default"lara ulasamayiz.
 
@@ -38,14 +38,14 @@ Note 3:"public " methodlar child classlar tarafından kullanılabilir.
         "child classlar tarafından kullanılabilir" demek "inherit edilebilir" demektir.
 Note 4: "protected" method'lar inderit edilebilir.
         Çünkü "protected" olan method ve variable'lar child'lar tarafından kullanılır.
-Note 5: "default" methodlar onject ile aynı package'de oldukları sürece iherit edilebilirler.
+Note 5: "default" methodlar object ile aynı package'de oldukları sürece inherit edilebilirler.
         Ama default method ile object'in üretildiği class farklı package'lerde ise inherit edilemezler.
 Note 6: "private" methodlar "inherit edilemezler".
 Note 7: Java birden fazla parent'i (multiple inheritance Java tarafından desteklenmez) onaylamaz
 Note 8: Child --> Parent --> Grand Parent--> GrandGrand Parent... şeklinde ilerleyen inheritance'lere "Multi Level Inheritance" denir.
 Note 9: Java'da "Object Class" tüm Java Classlarının ortak parentidir
 Note 10: Java da "Object Class" hariç tüm classların parenti vardır. javada parenti olmayan tek class "Object classtır."
-Note 11: Java'da "parent"dan "child"a olan ilişkilere "HAS -A relationship" denir
+Note 11: Java'da "parent"dan "child"a olan ilişkilere "IS -A relationship" denir
         Java'da "child"dan "parent"a olan ilişkilere "HAS -A relationship" denir
 Note 12: Javada her classın bir tane default constructor'u vardır.
 Bu default Constructor class'ın içinde görünmez. Çünkü default constructor "Object Class'tadır.

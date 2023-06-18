@@ -12,7 +12,7 @@ public class StringBuilder01 {
         String t=s+"!";
         String w="?";
 
-        //Stringi ddeğiştirdikten sonra aynı String assign ederseniz, Java yine yeni bir container oluşturur
+        //Stringi değiştirdikten sonra aynı String assign ederseniz, Java yine yeni bir container oluşturur
         // Değişmiş değeri bu yeni containerin içine koyar ve eski containeri gösteren oku yeni container'a yönlendirir
         //Dolayısıyla eski container adressiz kalır ve Garbage collector adressiz olan container ları siler.
         String a="Money";

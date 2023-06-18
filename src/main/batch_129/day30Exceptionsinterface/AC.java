@@ -35,4 +35,6 @@ public interface AC {
     void run();
     int price=2000;
     String model="Mitsubishi";
+
+
 }

@@ -5,389 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3adba21-a39e-470b-a40e-5663ebc39980" name="Changes" comment="15 şubat">
-      <change afterPath="$PROJECT_DIR$/src/main/batch_129/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/batch_129/Y.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch_129.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Batch_129.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/Q01_Ascii_Karakterler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/SwapValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/SwapValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/TypeCasting01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/day05typecastingstringmanipulations/TypeCasting01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C01_ForLoopCdenOncekiA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C01_ForLoopCdenOncekiA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C02_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C02_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C03_DoWhileLoopMaymunSurvive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/C03_DoWhileLoopMaymunSurvive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q01_Variable_Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q01_Variable_Fahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q02_Variable_Hipotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q02_Variable_Hipotenus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q03_Ternary_NotSistemi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q03_Ternary_NotSistemi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q04_Regex_AdSoyad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q04_Regex_AdSoyad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q05_ForEach_EuroDolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q05_ForEach_EuroDolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q06_WhileLoop_IlkVeSonRakam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice01/Q06_WhileLoop_IlkVeSonRakam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q01_Ascii_AdiniYaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q01_Ascii_AdiniYaz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q02_If_Diskriminant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q02_If_Diskriminant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q03_Arrays_IkinciMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q03_Arrays_IkinciMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q04_RandomMethod_RastgeleHarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q04_RandomMethod_RastgeleHarf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q05_Arrays_ElementSil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q05_Arrays_ElementSil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q06_ForLoop_Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice02/Q06_ForLoop_Sekil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C01_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C01_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C02_TestKeyWordsMDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C02_TestKeyWordsMDA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C03_KelimeleriTersSiraliArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C03_KelimeleriTersSiraliArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C04_ArraysKarakterleriSaydir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/C04_ArraysKarakterleriSaydir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q01_WhileLoop_10KatinaKadar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q01_WhileLoop_10KatinaKadar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q02_List_EkleCikar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q02_List_EkleCikar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q03_DoWhile_TahminOyunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q03_DoWhile_TahminOyunu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q04_MultiArray_AyniIndexTop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q04_MultiArray_AyniIndexTop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q05_NestedForLoop_Carpim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q05_NestedForLoop_Carpim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q06_ForLoop_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice03/Q06_ForLoop_Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C01_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C01_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C02_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C02_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C03_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C03_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C04_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C04_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C05_MD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C05_MD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C06_ArraysKarakterleriSaydir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/C06_ArraysKarakterleriSaydir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HackerLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HackerLanguage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HesapMakinesiVarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/HesapMakinesiVarargs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q01_Arrays_OrtalamadanBuyuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q01_Arrays_OrtalamadanBuyuk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q02_Arrays_OrtakElemanlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q02_Arrays_OrtakElemanlar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q03_DoWhile_TopunSicramasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q03_DoWhile_TopunSicramasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q04_Foreach_Sifreleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q04_Foreach_Sifreleme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q05_Varargs_KullaniciBilgileri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q05_Varargs_KullaniciBilgileri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q06_MountainAray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice04/Q06_MountainAray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q01_Variables_PostVePreIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q01_Variables_PostVePreIncrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q02_Switch_AyGunleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q02_Switch_AyGunleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q03_ForLoop_UcgenNumara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q03_ForLoop_UcgenNumara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q04_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q04_Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q05_Arrays_ToplamVeVeriler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q05_Arrays_ToplamVeVeriler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q06_SimetrikArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q06_SimetrikArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q07_List_OrtalamaUstuOgrenciler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice05/Q07_List_OrtalamaUstuOgrenciler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Hacim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Hacim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q01_Ascii_Karakterler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q01_Ascii_Karakterler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q02_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q02_Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q03_RastgeleSifreOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q03_RastgeleSifreOlusturma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q04_MethodOverloading_Hacim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q04_MethodOverloading_Hacim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q05_Arrays_IstenleriSilme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q05_Arrays_IstenleriSilme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q06_MultiDimArray_Toplam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice06/Q06_MultiDimArray_Toplam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q01_Arrays_Ortaelement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q01_Arrays_Ortaelement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q02_TasKagitMakas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q02_TasKagitMakas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q05_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/Q05_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/market/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/market/Market.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/market/Q04_Constructor_Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/market/Q04_Constructor_Market.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/sirket/Q03_Static_Sirket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/sirket/Q03_Static_Sirket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/sirket/Sirket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice07/sirket/Sirket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q01_NestedLoop_AtbashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q01_NestedLoop_AtbashCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q02_Arrays_SesliHarfleriKapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q02_Arrays_SesliHarfleriKapa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q04_Bakkal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/Q04_Bakkal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/daire_hesapla/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/daire_hesapla/Daire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/daire_hesapla/Q05_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/daire_hesapla/Q05_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/kutuphane/Kutuphane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/kutuphane/Kutuphane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/kutuphane/Q03_ObjeOlusturma_Kutuphane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice08/kutuphane/Q03_ObjeOlusturma_Kutuphane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q01_Arrays_TekrarlilariSil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q01_Arrays_TekrarlilariSil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q03_ForLoop_RakamlariTopla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q03_ForLoop_RakamlariTopla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q04_Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q04_Manav.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q05_ZarSaniye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/Q05_ZarSaniye.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Banka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Emekli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Emekli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Isci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Isci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Memur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Memur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Q02_Kredi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice09/kredi/Q02_Kredi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Okul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/OkulMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q01_Recursive_100den1e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q01_Recursive_100den1e.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q02_Arrays_HarfKullanimSayilari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q02_Arrays_HarfKullanimSayilari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q03_Exception_NotOrtalama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice10/Q03_Exception_NotOrtalama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/AbstractionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/AbstractionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Alan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Alan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Dikdortgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/InterfaceRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/InterfaceRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/MaasArtir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/MaasArtir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/MaasHesapla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/MaasHesapla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Pangram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/TextOkumaYazma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/TextOkumaYazma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Ucgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Vergi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice11/Vergi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/LoginRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/LoginRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q01_Recursive_Faktoriyel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q01_Recursive_Faktoriyel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q02_Map_FiyatToplami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q02_Map_FiyatToplami.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q03_ForLoop_UsAlma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q03_ForLoop_UsAlma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q04_Random_AdOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q04_Random_AdOlusturma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q05_Map_AdSoyad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/Q05_Map_AdSoyad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice12/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Aile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Aile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/BeslenmeEgzersiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/BeslenmeEgzersiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/CollectionsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/CollectionsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/EnumRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/EnumRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/KullaniciBilgileriMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/KullaniciBilgileriMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q01_Map_AyniUcret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q01_Map_AyniUcret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q02_Map_Aile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q02_Map_Aile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q03_Enum_BeslenmeEgzersiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q03_Enum_BeslenmeEgzersiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q04_KursaOgrenciSec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/advance_practice/practice13/Q04_KursaOgrenciSec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day01variables/Variables01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day01variables/Variables01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/MethodCreation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/MethodCreation01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/Variables01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/Variables01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/Variables02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day02datatypesmethodcreation/Variables02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Scanner06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day03scanner/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/AsciiValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/AsciiValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/Operators01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/Operators01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day04asciiwrapperclassoperatorsmemoryusage/WrapperClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/A_StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/A_StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/B_ValueOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/B_ValueOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day06stringmanipulationsifstatement/StringManipulations01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day07ifstatements/IfStatement06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/NestedIf04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/Ternary01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day08nestedifternary/Ternary01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/IncrementDecrement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/IncrementDecrement01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/NestedTernary01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/NestedTernary01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/Switch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/Switch01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/Ternary01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day09incrementdecrementternaryswitch/Ternary01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Loops01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Loops01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Loops02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Loops02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day10switchloops/Switch03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C01_SonsuzLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C01_SonsuzLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C02_CalismayanLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C02_CalismayanLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C03_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C03_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C04_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C04_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C05_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C05_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C06_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C06_NestedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day11loops/C07_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day11loops/C07_NestedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day12loops/C01_ForLoopIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day12loops/C01_ForLoopIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day12loops/C02_ForLoopSayiKullanmadanJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day12loops/C02_ForLoopSayiKullanmadanJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day12loops/C03_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day12loops/C03_NestedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day12loops/C04_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day12loops/C04_WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/Arrays01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/DoWhileLoop03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/WhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day13whileloopdowhileloop/WhileLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day14arraysForeachloops/Arrays05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C01_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C01_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C02_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C02_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C03_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C03_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C04_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C04_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C05_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day15arrays/C05_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C01_MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C01_MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C02_MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C02_MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C03_MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C03_MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C04_MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/C04_MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Md06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/Star.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/AritmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/AritmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/AssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/AssignmentOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/ComparsionOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/ComparsionOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/LogicalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/WrapperClass01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/WrapperClass01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/WrapperClass02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day16multidimensionalarrays/wrapperclassoperator1/day16multidimensionalarray/WrapperClass02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day17arraylists/ArrayLists03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/Array03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/Array03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayList02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayList02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayListMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayList_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/ArrayList_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/List03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day18ArrayList/List03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C01_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C01_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C02_ListsJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C02_ListsJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C03_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C03_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C04_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C04_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C05_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C05_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C06_Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/C06_Varargs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/invokedynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day19listvarargs/invokedynamic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C01_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C01_PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C02_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C02_PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C03_PassByValueArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C03_PassByValueArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C04_PassByValueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C04_PassByValueList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C05_PassByValueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C05_PassByValueList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C06_PasByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C06_PasByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C07_OverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day20passbyvalueoverloading/C07_OverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C01_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C01_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C02_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C02_Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C03_StaticDepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C03_StaticDepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C04_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day21overloadingstatic/C04_Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/CarRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/CarRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/DateTime01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/DateTime01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/StaticBlocks01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/StaticBlocks01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day22staticblocksconstractors/StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/DateTime01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/DateTime01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/Maymun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/Maymun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/StringBuffer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/StringBuffer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/batch_129/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/batch_129/Y.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/Y.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/StringBuilder01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day23datetimestringbuilder/StringBuilder01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/AnimalRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/FishRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/FishRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Honda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/HondaAccord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/HondaAccord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/OgrenciRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/OgrenciRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/VehicleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day24accessmodifiersinheritance/VehicleRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A01_Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A01_Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A02_Science.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A02_Science.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A03_Art.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A03_Art.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A04_Lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A04_Lessons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A05_LessonsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/A05_LessonsRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C01_Memur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C01_Memur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C02_Isci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C02_Isci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C03_Muhasebe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C03_Muhasebe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C04_Personel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/C04_Personel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Honda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/VehicleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day25inhetirance/VehicleRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day26overriding/AnimalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day26overriding/AnimalRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Mammals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day26overriding/Mammals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/EighthGraders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/EighthGraders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Rooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Rooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/SeventhGraders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/SeventhGraders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/SixthGraders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/SixthGraders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day27encapsulationabstraction/StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C01_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C01_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C02_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C02_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C03_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C03_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C04_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C04_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C05_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C05_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C06_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C06_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C07_Exception_Ikili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/C07_Exception_Ikili.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/TaskException" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day28exceptions/TaskException" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C02_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C02_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C03_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C03_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C04_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C04_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C05_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/C05_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Exceptions03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/IOException" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/IOException" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch_Finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day29exceptions/Try_Catch_Finally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/AC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/AC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Accord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Accord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Civic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/CustomException01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/CustomException01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Exceptions01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Exceptions01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Exceptions02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Exceptions02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/HondaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/HondaRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/InvalidNumberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/InvalidNumberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/InvalidStudentGradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/InvalidStudentGradeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day30Exceptionsinterface/Security.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day31collections/HashSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day31collections/HashSet01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day31collections/LinkedList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day31collections/LinkedList01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day31collections/LinkedListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day31collections/LinkedListMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day32collections/Deque01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day32collections/Deque01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day32collections/LinkedHashSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day32collections/LinkedHashSet01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day32collections/Queue01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day32collections/Queue01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day32collections/TreeSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day32collections/TreeSet01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day33maps/HashMaps03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/HashMapMechanism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/HashMapMechanism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/HashTable01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/HashTable01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/IteratorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/IteratorMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/Iterators01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/Iterators01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/TreeMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/TreeMap01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/UsStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/UsStates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/UsStatesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day34mapsiterators/UsStatesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day35lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day35lambda/Lambda01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Lambda01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Lambda02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Lambda02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Universite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day36lambda/Universite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day36lambda/YazdirMetot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day36lambda/YazdirMetot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Lambda01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Lambda02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Lambda02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Universite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Universite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day37lambda/Utilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambda03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambdatextfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Lambdatextfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/day38lambda/d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/day38lambda/d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Araba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/MusteriveAracBilgileri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/MusteriveAracBilgileri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/SehirSec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/SehirSec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Tarih.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/arac_kiralama/Tarih.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/aracsigorta/Arac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/aracsigorta/Arac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/aracsigorta/AracSigortaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/aracsigorta/AracSigortaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/Bilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/Bilet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/BiletRezervasyon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/BiletRezervasyon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/bilet_rezervasyon/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/coffee_machine/CoffeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/coffee_machine/CoffeMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Doktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Doktor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/DoktorIslemleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/DoktorIslemleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Durum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Durum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Hasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Hasta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/HastaIslemleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/HastaIslemleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Hastane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/Hastane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/HastaneRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/HastaneRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/QA9_Hastanesiislemler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/QA9_Hastanesiislemler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/VeriBankasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hastane/VeriBankasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/Deneme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/PatientAndDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/PatientAndDoctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/doktorPatient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/doktorPatient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/notlar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/hospital/notlar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/icecek_otomati/IcecekOtomati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/icecek_otomati/IcecekOtomati.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/LoginMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/LoginMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/siteye_uye_olma/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/K.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/L.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/M.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/YiyecekOtomati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/batch_129/projects/yiyecekotomati/YiyecekOtomati.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/batch_129/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/advance_practice/day05typecastingstringmanipulations/StringManipulations03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/advance_practice/day05typecastingstringmanipulations/SwapValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/advance_practice/day05typecastingstringmanipulations/TypeCasting01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/day27encapsulationabstraction/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/batch_129/day27encapsulationabstraction/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/batch_129/day31collections/LinkedList01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/batch_129/day31collections/LinkedList01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,23 +77,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/Batch_129",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HakanBatirhan/IdeaProjects/Batch_129&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.batch_129.day19listvarargs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HakanBatirhan\IdeaProjects\Batch_129\target" />
       <recent name="C:\Users\Hakan Batırhan\IdeaProjects\Batch_129\src\main\batch_129\projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -465,13 +105,13 @@
       <recent name="main.batch_129.projects.hospital" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_ForLoopCdenOncekiA">
-    <configuration name="A_StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.batch_129.day06stringmanipulationsifstatement.A_StringMethods" />
+  <component name="RunManager" selected="Application.Y">
+    <configuration name="Arrays05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.batch_129.day14arraysForeachloops.Arrays05" />
       <module name="Batch_129" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.batch_129.day06stringmanipulationsifstatement.*" />
+          <option name="PATTERN" value="main.batch_129.day14arraysForeachloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_ForLoopCdenOncekiA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.batch_129.advance_practice.practice01.C01_ForLoopCdenOncekiA" />
+    <configuration name="C01_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.batch_129.day19listvarargs.C01_List" />
       <module name="Batch_129" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.batch_129.advance_practice.practice01.*" />
+          <option name="PATTERN" value="main.batch_129.day19listvarargs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,34 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.batch_129.day28exceptions.C03_Exception" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Batch_129" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.batch_129.day28exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_ForEach_EuroDolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.batch_129.advance_practice.practice01.Q05_ForEach_EuroDolar" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="Batch_129" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.batch_129.advance_practice.practice01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.batch_129.X" />
+    <configuration name="Y" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.batch_129.Y" />
       <module name="Batch_129" />
       <extension name="coverage">
         <pattern>
@@ -533,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_ForLoopCdenOncekiA" />
-        <item itemvalue="Application.C03_Exception" />
-        <item itemvalue="Application.X" />
-        <item itemvalue="Application.A_StringMethods" />
-        <item itemvalue="Application.Q05_ForEach_EuroDolar" />
+        <item itemvalue="Application.Y" />
+        <item itemvalue="Application.C01_List" />
+        <item itemvalue="Application.Arrays05" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
